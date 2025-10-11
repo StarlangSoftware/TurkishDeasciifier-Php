@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f3f2e60bc85826fcc84ece8fc447ef76",
+    "content-hash": "808917b80539989d48125dde562b5222",
     "packages": [],
     "packages-dev": [
         {
@@ -257,16 +257,16 @@
         },
         {
             "name": "olcaytaner/morphologicalanalysis",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Php.git",
-                "reference": "f5680b3fad57886556eb336eaaf81d337541b922"
+                "reference": "0b69ff8e7eea09ead12385584885441af06aeeb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StarlangSoftware/TurkishMorphologicalAnalysis-Php/zipball/f5680b3fad57886556eb336eaaf81d337541b922",
-                "reference": "f5680b3fad57886556eb336eaaf81d337541b922",
+                "url": "https://api.github.com/repos/StarlangSoftware/TurkishMorphologicalAnalysis-Php/zipball/0b69ff8e7eea09ead12385584885441af06aeeb0",
+                "reference": "0b69ff8e7eea09ead12385584885441af06aeeb0",
                 "shasum": ""
             },
             "require": {
@@ -302,9 +302,9 @@
             "description": "Morphological analysis library",
             "support": {
                 "issues": "https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Php/issues",
-                "source": "https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Php/tree/1.0.0"
+                "source": "https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Php/tree/1.0.1"
             },
-            "time": "2025-09-09T20:59:15+00:00"
+            "time": "2025-10-11T09:45:20+00:00"
         },
         {
             "name": "olcaytaner/ngram",
@@ -1447,16 +1447,16 @@
         },
         {
             "name": "sebastian/exporter",
-            "version": "6.3.0",
+            "version": "6.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/exporter.git",
-                "reference": "3473f61172093b2da7de1fb5782e1f24cc036dc3"
+                "reference": "70a298763b40b213ec087c51c739efcaa90bcd74"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/3473f61172093b2da7de1fb5782e1f24cc036dc3",
-                "reference": "3473f61172093b2da7de1fb5782e1f24cc036dc3",
+                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/70a298763b40b213ec087c51c739efcaa90bcd74",
+                "reference": "70a298763b40b213ec087c51c739efcaa90bcd74",
                 "shasum": ""
             },
             "require": {
@@ -1470,7 +1470,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "6.1-dev"
+                    "dev-main": "6.3-dev"
                 }
             },
             "autoload": {
@@ -1513,15 +1513,27 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/exporter/issues",
                 "security": "https://github.com/sebastianbergmann/exporter/security/policy",
-                "source": "https://github.com/sebastianbergmann/exporter/tree/6.3.0"
+                "source": "https://github.com/sebastianbergmann/exporter/tree/6.3.2"
             },
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
                     "type": "github"
+                },
+                {
+                    "url": "https://liberapay.com/sebastianbergmann",
+                    "type": "liberapay"
+                },
+                {
+                    "url": "https://thanks.dev/u/gh/sebastianbergmann",
+                    "type": "thanks_dev"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/sebastian/exporter",
+                    "type": "tidelift"
                 }
             ],
-            "time": "2024-12-05T09:17:50+00:00"
+            "time": "2025-09-24T06:12:51+00:00"
         },
         {
             "name": "sebastian/global-state",

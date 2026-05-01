@@ -25,7 +25,7 @@
     "olcaytaner/corpus": "1.0.0",
     "olcaytaner/datastructure": "1.0.1",
     "olcaytaner/util": "1.0.2",
-    "olcaytaner/dictionary": "1.0.0",
+    "olcaytaner/dictionary": "1.0.3",
     "olcaytaner/ngram": "1.0.0",
     "olcaytaner/morphologicalanalysis": "1.0.1",
     "olcaytaner/xmlparser": "1.0.1"
